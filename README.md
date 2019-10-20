@@ -15,7 +15,7 @@ This is the live version of the website: <a href="http://dev-chalets-and-caviar-
     A contact page with contact details and a functional contact form
     A WordPress theme that makes logical sense for the client's requests
 
-#Configure access and documentation
+# Configure access and documentation
 To enable access for the agency to add, edit and delete chalets, I created the follwoing accounts:
 
     An administrator account for the agency director
@@ -24,5 +24,6 @@ To enable access for the agency to add, edit and delete chalets, I created the f
 
 A well-detailed documnetation was made available for them to serve as a guide for their future endeavours using the website
 
-Twitter: <a href="https://twitter.com/Abumaryam99">Twitter</a> 
+Twitter: <a href="https://twitter.com/Abumaryam99">Twitter</a>
+
 LinkedIn: <a href="https://www.linkedin.com/in/abdurroheem-olayemi-baa980b1/">LinkedIn</a>
