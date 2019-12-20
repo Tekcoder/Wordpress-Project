@@ -1,5 +1,5 @@
 # Wordpress-Project
-This is a project that I worked on being a beneficiafiary of Facebook Developer Circles scholarship with Openclassrooms on the Front-End Developer Path. The project is about creating a website for a real estate agency in the mountains. The website should enable them to show off their luxury chalets for rent and sale! 🏰🏔
+This is a project that I worked on being a beneficiafiary of Facebook Developer Circles scholarship. The project is about creating a website for a real estate agency in the mountains. The website should enable them to show off their luxury chalets for rent and sale! 🏰🏔
 
 # My steps in creating this sleek website using a wordpress theme
 1) Installation 
